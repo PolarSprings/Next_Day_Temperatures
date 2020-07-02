@@ -1,4 +1,4 @@
-# Next_Day_Temperatures
+# next-day-temperatures
 Using various techniques to generate predictions for a year of temperatures
 
 
